@@ -4,3 +4,4 @@
 
 ## AWS Cloud Practitioner Essentials
 - [Introduction to Amazon Web Services](cloud-practitioner-essentials/introduction.md)
+- [Compute in the Cloud](cloud-practitioner-essentials/compute.md)

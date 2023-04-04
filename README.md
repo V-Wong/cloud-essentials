@@ -5,3 +5,4 @@
 ## AWS Cloud Practitioner Essentials
 - [Introduction to Amazon Web Services](cloud-practitioner-essentials/introduction.md)
 - [Compute in the Cloud](cloud-practitioner-essentials/compute.md)
+- [Global Infrastructure and Reliability](cloud-practitioner-essentials/global_infrastructure_reliability.md)

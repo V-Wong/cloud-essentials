@@ -7,3 +7,4 @@
 - [Compute in the Cloud](cloud-practitioner-essentials/compute.md)
 - [Global Infrastructure and Reliability](cloud-practitioner-essentials/global_infrastructure_reliability.md)
 - [Networking](cloud-practitioner-essentials/networking.md)
+- [Storage and Databases](cloud-practitioner-essentials/storage_databases.md)

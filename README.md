@@ -8,3 +8,4 @@
 - [Global Infrastructure and Reliability](cloud-practitioner-essentials/global_infrastructure_reliability.md)
 - [Networking](cloud-practitioner-essentials/networking.md)
 - [Storage and Databases](cloud-practitioner-essentials/storage_databases.md)
+- [Security](cloud-practitioner-essentials/security.md)

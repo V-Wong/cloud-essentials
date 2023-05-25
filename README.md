@@ -9,3 +9,4 @@
 - [Networking](cloud-practitioner-essentials/networking.md)
 - [Storage and Databases](cloud-practitioner-essentials/storage_databases.md)
 - [Security](cloud-practitioner-essentials/security.md)
+- [Monitoring and Analytics](cloud-practitioner-essentials/monitoring_analytics.md)

@@ -11,3 +11,4 @@
 - [Security](cloud-practitioner-essentials/security.md)
 - [Monitoring and Analytics](cloud-practitioner-essentials/monitoring_analytics.md)
 - [Pricing and Support](cloud-practitioner-essentials/pricing_support.md)
+- [Migration and Innovation](cloud-practitioner-essentials/migration_innovation.md)

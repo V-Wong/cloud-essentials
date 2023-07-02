@@ -16,3 +16,4 @@
 
 ## Getting Started with Cloud Acquisition
 - [Cloud Acquisition Fundamentals](cloud-acquisition/fundamentals.md)
+- [Procurement Foundations](cloud-acquisition/procurement_foundations.md)

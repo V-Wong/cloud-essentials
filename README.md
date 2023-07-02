@@ -13,3 +13,6 @@
 - [Pricing and Support](cloud-practitioner-essentials/pricing_support.md)
 - [Migration and Innovation](cloud-practitioner-essentials/migration_innovation.md)
 - [Cloud Journey](cloud-practitioner-essentials/cloud_journey.md)
+
+## Getting Started with Cloud Acquisition
+- [Cloud Acquisition Fundamentals](cloud-acquisition/fundamentals.md)

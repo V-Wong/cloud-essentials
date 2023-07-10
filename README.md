@@ -18,3 +18,4 @@
 - [Cloud Acquisition Fundamentals](cloud-acquisition/fundamentals.md)
 - [Procurement Foundations](cloud-acquisition/procurement_foundations.md)
 - [Key Aspects of Procurement](cloud-acquisition/procurement_aspects.md)
+- [Working With Partners](cloud-acquisition/partners.md)

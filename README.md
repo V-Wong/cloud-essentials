@@ -19,3 +19,4 @@
 - [Procurement Foundations](cloud-acquisition/procurement_foundations.md)
 - [Key Aspects of Procurement](cloud-acquisition/procurement_aspects.md)
 - [Working With Partners](cloud-acquisition/partners.md)
+- [Making It Real](cloud-acquisition/making_it_real.md)

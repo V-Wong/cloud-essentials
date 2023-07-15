@@ -23,3 +23,4 @@
 
 ## AWS Billing and Cost Management
 - [Introduction](billing-cost-management/introduction.md)
+- [Establish Visibility and Manage Spending](billing-cost-management/visibility_spending.md)

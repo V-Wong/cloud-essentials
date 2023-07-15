@@ -28,3 +28,5 @@
 ## AWS Well-Architected Framework
 - [Introduction](well-architected-framework/introduction.md)
 - [Pillars of Well-Architected](well-architected-framework/pillars.md)
+- [Common Uses of Well-Architected](well-architected-framework/common-uses.md)
+

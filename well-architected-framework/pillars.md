@@ -17,13 +17,6 @@ In **cloud environments**, customers:
 - Build data-driven architecture.
 
 ## Pillars
-The foundation of architecting technology solutions includes:
-- Operational Excellence.
-- Security.
-- Reliability.
-- Performance Efficiency.
-- Cost Optimisation.
-
 ### Operational Excellence
 **Operational Excellence** focuses on the ability to **run and monitor systems** to **deliver business value** and to continually **improve supporting processes and procedures**.
 

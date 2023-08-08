@@ -29,4 +29,5 @@
 - [Introduction](well-architected-framework/introduction.md)
 - [Pillars of Well-Architected](well-architected-framework/pillars.md)
     - [Operational Excellence Pillar](well-architected-framework/operational_excellence.md)
+    - [Security Pillar](well-architected-framework/security.md)
 - [Common Uses of Well-Architected](well-architected-framework/common_uses.md)

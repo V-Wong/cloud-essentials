@@ -31,4 +31,5 @@
     - [Operational Excellence Pillar](well-architected-framework/operational_excellence.md)
     - [Security Pillar](well-architected-framework/security.md)
     - [Reliability Pillar](well-architected-framework/reliability.md)
+    - [Performance Efficiency Pillar](well-architected-framework/performance_efficiency.md)
 - [Common Uses of Well-Architected](well-architected-framework/common_uses.md)

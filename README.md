@@ -34,3 +34,4 @@
     - [Performance Efficiency Pillar](well-architected-framework/performance_efficiency.md)
     - [Cost Optimisation Pillar](well-architected-framework/cost_optimisation.md)
 - [Common Uses of Well-Architected](well-architected-framework/common_uses.md)
+- [Well-Architected Review](well-architected-framework/review.md)

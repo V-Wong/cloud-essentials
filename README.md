@@ -35,3 +35,4 @@
     - [Cost Optimisation Pillar](well-architected-framework/cost_optimisation.md)
 - [Common Uses of Well-Architected](well-architected-framework/common_uses.md)
 - [Well-Architected Review](well-architected-framework/review.md)
+- [Well-Architected Tool](well-architected-framework/tool.md)
